@@ -628,6 +628,14 @@ function live(img,name){
  io.observe(vd);
 }
 document.querySelectorAll('img').forEach(function(i){var n=MAP[i.alt];if(n)live(i,n)});
+var STEPV={0:'step0',2:'formation'};
+var sv=document.getElementById('stepview');
+if(sv){var busy=false;new MutationObserver(function(){if(busy)return;busy=true;
+ var im=sv.querySelector('img.photo:not([data-live])');var n=STEPV[state.step];
+ if(im&&n){live(im,n)}
+ setTimeout(function(){busy=false},50)}).observe(sv,{childList:true,subtree:true});
+ var im0=sv.querySelector('img.photo');if(im0&&STEPV[state.step])live(im0,STEPV[state.step]);}
+
 }catch(e){}
 })();
 </script>
