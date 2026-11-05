@@ -166,7 +166,7 @@ footer .logos .lg img{height:40px}footer .logos .lg.bo img{height:34px}
 
 <section id="pres" style="max-width:1080px;margin:0 auto;padding:16px max(16px,env(safe-area-inset-right,0px)) 16px max(16px,env(safe-area-inset-left,0px))">
 
-<video id="presvid" src="media/presentation-fr.mp4?v=7" controls playsinline preload="metadata" style="width:100%;border-radius:8px;background:#000"></video>
+<video id="presvid" src="media/presentation-fr.mp4?v=8" controls playsinline preload="metadata" style="width:100%;border-radius:8px;background:#000"></video>
 <style>#langs{display:flex;gap:4px;margin-inline-start:auto;flex:none}#langs button{font:700 12px Inter,system-ui,sans-serif;padding:6px 10px;border-radius:999px;border:1px solid currentColor;background:transparent;color:inherit;cursor:pointer;min-width:38px}#langs button[aria-pressed="true"]{background:#C8312B;border-color:#C8312B;color:#fff}html[dir=rtl] body{font-family:"Noto Sans Arabic",Inter,system-ui,sans-serif}html[lang=ar]{--display:"Noto Sans Arabic","Jost",sans-serif;--body:"Noto Sans Arabic","Inter",sans-serif}html[dir=rtl] .brand{direction:ltr}html[dir=rtl] td.n,html[dir=rtl] th.n,html[dir=rtl] .n{direction:ltr;unicode-bidi:isolate;text-align:end}.livevid{width:100%;display:block;border-radius:inherit;object-fit:cover}</style>
 </section>
 <header class="hero">
@@ -804,7 +804,7 @@ function setLang(l,persist){
  document.querySelectorAll('#langs button').forEach(function(b){b.setAttribute('aria-pressed',b.dataset.l===l)});
  try{if(persist)localStorage.setItem('beme-lang',l)}catch(e){}
  var v=document.getElementById('presvid');
- if(v){var p=!v.paused;v.src='media/presentation-'+l+'.mp4?v=7';v.load();if(p){v.play().catch(function(){})}}
+ if(v){var p=!v.paused;v.src='media/presentation-'+l+'.mp4?v=8';v.load();if(p){v.play().catch(function(){})}}
  if(l==='fr')return;
  function go(){all(document.body)}
 
