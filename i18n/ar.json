@@ -615,5 +615,11 @@
  "Sites :": "المواقع:",
  "www.aligroup.com": "www.aligroup.com",
  "www.bongard.fr": "www.bongard.fr",
- "Sites : ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧": "المواقع: ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧"
+ "Sites : ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧": "المواقع: ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧",
+ "Entité locale obligatoire": "كيان محلي إلزامي",
+ "Depuis environ deux ans, la loi saoudienne impose une entité sur place pour vendre, facturer et être référencé, notamment pour les appels d'offres de projets (hôtels, boulangeries et autres). Une filiale locale est donc nécessaire pour accéder à ces marchés.": "منذ نحو عامين يفرض النظام السعودي وجود كيان محلي للبيع والفوترة والتسجيل، خصوصًا في مناقصات المشاريع (الفنادق والمخابز وغيرها). ولذلك فإن وجود شركة تابعة محلية ضروري للوصول إلى هذه الأسواق.",
+ "Arrêté : environ 6 M SAR de ventes par an déjà réalisées en Arabie saoudite. À titre indicatif, cela équivaut à 3 projets de 2 M SAR par an, au-dessus des 2,3 nécessaires pour l'équilibre en année 3.": "المتفق عليه: نحو 6 ملايين ريال من المبيعات سنويًا تحققت بالفعل في المملكة. وللإشارة، يعادل ذلك 3 مشاريع بقيمة 2 مليون ريال سنويًا، أي أعلى من 2.3 اللازمة لبلوغ نقطة التعادل في السنة الثالثة.",
+ "Arrêté : Depuis environ deux ans, la loi saoudienne impose une entité sur place pour vendre, facturer et être référencé, notamment pour les appels d'offres de projets (hôtels, boulangeries et autres). Une filiale locale est donc nécessaire pour accéder à ces marchés.": "المتفق عليه: منذ نحو عامين يفرض النظام السعودي وجود كيان محلي للبيع والفوترة والتسجيل، خصوصًا في مناقصات المشاريع (الفنادق والمخابز وغيرها). ولذلك فإن وجود شركة تابعة محلية ضروري للوصول إلى هذه الأسواق.",
+ "Arrêté : environ {0} M SAR de ventes par an déjà réalisées en Arabie saoudite. À titre indicatif, cela équivaut à {1} projets de {2} M SAR par an, au-dessus des {3} nécessaires pour l'équilibre en année {4}.": "المتفق عليه: نحو {0} ملايين ريال من المبيعات سنويًا تحققت بالفعل في المملكة. وللإشارة، يعادل ذلك {1} مشاريع بقيمة {2} مليون ريال سنويًا، أي أعلى من {3} اللازمة لبلوغ نقطة التعادل في السنة {4}.",
+ "{0}. Entité locale obligatoire": "{0}. كيان محلي إلزامي"
 }

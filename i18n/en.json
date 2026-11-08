@@ -615,5 +615,11 @@
  "Sites :": "Websites:",
  "www.aligroup.com": "www.aligroup.com",
  "www.bongard.fr": "www.bongard.fr",
- "Sites : ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧": "Websites: ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧"
+ "Sites : ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧": "Websites: ⟦0⟧www.aligroup.com⟦/0⟧ · ⟦1⟧www.bongard.fr⟦/1⟧",
+ "Entité locale obligatoire": "Local entity required",
+ "Depuis environ deux ans, la loi saoudienne impose une entité sur place pour vendre, facturer et être référencé, notamment pour les appels d'offres de projets (hôtels, boulangeries et autres). Une filiale locale est donc nécessaire pour accéder à ces marchés.": "For about two years, Saudi law has required an on-site entity to sell, invoice and be registered, notably for project tenders (hotels, bakeries and others). A local subsidiary is therefore needed to access these markets.",
+ "Arrêté : environ 6 M SAR de ventes par an déjà réalisées en Arabie saoudite. À titre indicatif, cela équivaut à 3 projets de 2 M SAR par an, au-dessus des 2,3 nécessaires pour l'équilibre en année 3.": "Settled: about SAR 6 M of sales per year already made in Saudi Arabia. As an indication, this is equivalent to 3 projects of SAR 2 M per year, above the 2.3 needed to break even in year 3.",
+ "Arrêté : Depuis environ deux ans, la loi saoudienne impose une entité sur place pour vendre, facturer et être référencé, notamment pour les appels d'offres de projets (hôtels, boulangeries et autres). Une filiale locale est donc nécessaire pour accéder à ces marchés.": "Settled: for about two years, Saudi law has required an on-site entity to sell, invoice and be registered, notably for project tenders (hotels, bakeries and others). A local subsidiary is therefore needed to access these markets.",
+ "Arrêté : environ {0} M SAR de ventes par an déjà réalisées en Arabie saoudite. À titre indicatif, cela équivaut à {1} projets de {2} M SAR par an, au-dessus des {3} nécessaires pour l'équilibre en année {4}.": "Settled: about SAR {0} M of sales per year already made in Saudi Arabia. As an indication, this is equivalent to {1} projects of SAR {2} M per year, above the {3} needed to break even in year {4}.",
+ "{0}. Entité locale obligatoire": "{0}. Local entity required"
 }
