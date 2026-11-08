@@ -631,5 +631,9 @@
  "stock de {0} SAR pour l'ensemble des marques.": "محسوم: مخزون بقيمة {0} ريال لجميع العلامات.",
  "budget de {0} SAR par mois à Riyad ; BEME Dubaï ne prend rien en charge ; comptabilité tenue par un comptable saoudien.": "محسوم: ميزانية {0} ريال شهرياً في الرياض؛ ولا يتحمل BEME دبي أي شيء؛ ويتولى المحاسبة محاسب سعودي.",
  "l'exclusivité de la marque de chocolat prévue au départ est prise ; BEME Dubaï travaille sur une autre marque.": "محسوم: حصرية علامة الشوكولاتة المخطط لها في البداية قد أُخذت؛ ويعمل BEME دبي على علامة أخرى.",
- "⟦0⟧Prochaine étape.⟦/0⟧ Un échange pour valider ensemble le périmètre, les montants et le calendrier d'entrée au capital.": "⟦0⟧الخطوة التالية.⟦/0⟧ نقاش للتحقق معًا من النطاق والمبالغ وجدول الدخول في رأس المال."
+ "⟦0⟧Prochaine étape.⟦/0⟧ Un échange pour valider ensemble le périmètre, les montants et le calendrier d'entrée au capital.": "⟦0⟧الخطوة التالية.⟦/0⟧ نقاش للتحقق معًا من النطاق والمبالغ وجدول الدخول في رأس المال.",
+ "Le rythme de ventes qui permet d'ouvrir l'étape {0} dans les délais est donné par la synthèse : à {1} machines par mois, {2} projets par an suffisent pour être à l'équilibre en année {3}. Si ce rythme n'est pas atteint, l'étape {4} attend, ou un partenaire accepte de la financer à l'avance .": "تحدد الخلاصة وتيرة المبيعات التي تتيح فتح المرحلة {0} في موعدها: عند {1} آلات شهريًا تكفي {2} مشاريع في السنة لبلوغ التعادل في السنة {3}. وإن لم تُبلغ هذه الوتيرة فالمرحلة {4} تنتظر، أو يوافق شريك على تمويلها مسبقًا.",
+ "⟦0⟧Confidentiel⟦/0⟧ : document destiné à son seul destinataire, à ne pas partager ni reproduire sans autorisation.": "⟦0⟧سري⟦/0⟧: وثيقة موجّهة إلى مستلمها فقط، ولا يجوز مشاركتها أو نسخها دون إذن.",
+ "Dossier de projet · novembre 2026": "ملف المشروع · نوفمبر 2026",
+ "Dossier de projet · novembre {0}": "ملف المشروع · نوفمبر {0}"
 }
